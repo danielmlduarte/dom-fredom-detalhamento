@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dom-fredom-detalhamento/static/css/main.ae42ac5f.css",
+    "main.js": "/dom-fredom-detalhamento/static/js/main.a874fec2.js",
+    "static/media/logo.svg": "/dom-fredom-detalhamento/static/media/logo.1b7d6d0312c601cb7c853cfe7c76596a.svg",
+    "index.html": "/dom-fredom-detalhamento/index.html",
+    "main.ae42ac5f.css.map": "/dom-fredom-detalhamento/static/css/main.ae42ac5f.css.map",
+    "main.a874fec2.js.map": "/dom-fredom-detalhamento/static/js/main.a874fec2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.a874fec2.js"
+  ]
+}
